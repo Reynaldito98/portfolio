@@ -1,0 +1,14 @@
+.footer {
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(29, 28, 28));
+    height: 80px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footer__author {
+    margin: 0px;
+    color: #fff;
+}
