@@ -10,7 +10,7 @@ const projectList = [
     {
         imageSrc: expense, 
         title: 'Expense Tracker',
-        link: '',
+        link: 'https://expense-tracker-app-azure-eta.vercel.app',
         github: 'https://github.com/Reynaldito98/expense_tracker_app',
         technologies: 'HTML5, CSS3, JavaScript, React.js',
         description: 'App where you can keep track of your expenses and your income.'
@@ -25,7 +25,7 @@ const projectList = [
     },
     {
         imageSrc: whattowear, 
-        link: '',
+        link: 'https://se-project-react-two.vercel.app',
         title: 'What to Wear',
         github: 'https://github.com/Reynaldito98/se_project_react',
         technologies: 'HTML5, CSS3, JavaScript, React.js, Node.js and Express.js',
@@ -33,7 +33,7 @@ const projectList = [
     },
     {
         imageSrc: newsapp,
-        link: '',
+        link: 'https://newsapp-frontend-kappa.vercel.app',
         title: 'News App',
         github: 'https://github.com/Reynaldito98/newsapp-frontend',
         technologies: 'HTML5, CSS3, JavaScript, React.js',
@@ -41,9 +41,9 @@ const projectList = [
     },
     {
         imageSrc: baseballapp,
-        link: '',
+        link: 'https://make-your-own-stats-app-front.vercel.app',
         title: 'Make Your Own Stats',
-        github: '',
+        github: 'https://github.com/Reynaldito98/make-your-own-stats-app',
         technologies: 'HTML5, CSS3, JavaScript, React.js, Node.js and Express.js',
         description: 'App created for those who love stats like myself. You can create your own team, and also add players to that team. Then, you can keep track of the stats of the team yourself. Great choice for school teams who need someone to take their stats. '
     }

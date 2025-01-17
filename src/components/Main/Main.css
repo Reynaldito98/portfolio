@@ -62,6 +62,8 @@
 
 .main__picture {
     width: 200px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 50px rgb(93, 93, 93);
 }
 
 .main__right-column {
