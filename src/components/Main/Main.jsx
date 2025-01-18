@@ -1,6 +1,6 @@
 import './Main.css';
 import rey from '../../images/rey.jpeg';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 function Main() {
     return (

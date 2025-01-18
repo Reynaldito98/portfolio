@@ -4,7 +4,7 @@ import Main from '../Main/Main';
 import About from '../About/About';
 import Footer from '../Footer/Footer';
 import Projects from '../Projects/Projects';
-import { Route, Routes } from 'react-router';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
