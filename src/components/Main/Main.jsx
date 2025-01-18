@@ -14,7 +14,7 @@ function Main() {
             <div className="main__right-column">
                 <h1 className="main__heading">Portfolio</h1>
                 <h1 className="main__heading">Reynaldo Perez Pauli</h1>
-                <p className="main__info"><strong><a href="https://www.linkedin.com/in/reynaldo-perez-pauli/">Linkedin</a></strong> | <strong><a href="https://github.com/Reynaldito98">GitHub</a></strong></p>
+                <p className="main__info"><strong><a href="https://www.linkedin.com/in/reynaldo-perez-pauli/" target="_blank">Linkedin</a></strong> | <strong><a href="https://github.com/Reynaldito98" target="_blank">GitHub</a></strong></p>
                 <p className="main__info main__info_title"><strong>Full Stack Software Engineer</strong></p>
                 <p className="main__info"><strong>City:</strong> Olathe, Kansas</p>
                 <p className="main__info"><strong>Email:</strong> reynaldoperezpauli6@gmail.com</p>
