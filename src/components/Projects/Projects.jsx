@@ -18,7 +18,7 @@ const projectList = [
     {
         imageSrc: aroundtheUs, 
         title: 'Around the US',
-        link: '',
+        link: 'https://reynaldito98.github.io/se_project_aroundtheus/',
         github: 'https://github.com/Reynaldito98/se_project_aroundtheus',
         technologies: 'HTML5, CSS3, JavaScript, Object Oriented Programming',
         description: 'You can upload pictures of your favorite places or cities in US you have visited as well as like them or dislike them and delete them. Great app for a person in need of an album to store memorable pictures. '
