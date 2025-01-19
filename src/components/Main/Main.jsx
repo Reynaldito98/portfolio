@@ -1,5 +1,5 @@
 import './Main.css';
-import rey from '../../images/rey.jpeg';
+import rey from '../../images/reyn.jpeg';
 import { Link } from 'react-router';
 
 function Main() {
@@ -9,7 +9,7 @@ function Main() {
 
             </div>
 
-            <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" className="main__picture"></img>
+            <img src={rey} className="main__picture"></img>
 
             <div className="main__right-column">
                 <h1 className="main__heading">Portfolio</h1>
