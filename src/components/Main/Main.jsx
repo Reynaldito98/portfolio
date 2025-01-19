@@ -17,8 +17,8 @@ function Main() {
                 <p className="main__info"><strong><a href="https://www.linkedin.com/in/reynaldo-perez-pauli/" target="_blank">Linkedin</a></strong> | <strong><a href="https://github.com/Reynaldito98" target="_blank">GitHub</a></strong></p>
                 <p className="main__info main__info_title"><strong>Full Stack Software Engineer</strong></p>
                 <p className="main__info"><strong>City:</strong> Olathe, Kansas</p>
-                <p className="main__info"><strong>Email:</strong> reynaldoperezpauli6@gmail.com</p>
-                <p className="main__info main__info_padding"><strong>Phone:</strong> +1 (786) 794-8944</p>
+                <p className="main__info"><strong>Email:</strong> <a href="mailto:reynaldoperezpauli6@gmail.com">reynaldoperezpauli6@gmail.com</a></p>
+                <p className="main__info main__info_padding"><strong>Phone:</strong> <a href="tel:+17867948944">+1 (786) 794-8944</a></p>
 
                 <Link className="main__button" to="/projects">Projects</Link>
             </div>
