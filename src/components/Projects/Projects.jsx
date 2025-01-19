@@ -25,7 +25,7 @@ const projectList = [
     },
     {
         imageSrc: whattowear, 
-        link: 'https://se-project-react-two.vercel.app',
+        link: 'https://what-to-wear-frontend-six.vercel.app/',
         title: 'What to Wear',
         github: 'https://github.com/Reynaldito98/se_project_react',
         technologies: 'HTML5, CSS3, JavaScript, React.js, Node.js and Express.js',
