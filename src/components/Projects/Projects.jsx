@@ -27,7 +27,7 @@ const projectList = [
         imageSrc: whattowear, 
         link: 'https://what-to-wear-frontend-six.vercel.app/',
         title: 'What to Wear',
-        github: 'https://github.com/Reynaldito98/se_project_react',
+        github: 'https://github.com/Reynaldito98/what_to_wear',
         technologies: 'HTML5, CSS3, JavaScript, React.js, Node.js and Express.js',
         description: 'You can upload cards containing clothes and give them a category depending on the weather in which that piece of clothes will be useful. Then, the card created will be displayed to the user if the current temperature coincides with the category given to the card. '
     },
