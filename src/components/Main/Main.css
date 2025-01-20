@@ -65,6 +65,7 @@
     border-radius: 25px;
     animation: shadow-effect 3s ease-out 0s alternate infinite none running;
     border-radius: 20px;
+    filter: brightness(60%);
 }
 
 .main__right-column {
