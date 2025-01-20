@@ -64,7 +64,7 @@
     width: 400px;
     border-radius: 25px;
     animation: shadow-effect 3s ease-out 0s alternate infinite none running;
-    border-radius: 50%;
+    border-radius: 20px;
 }
 
 .main__right-column {
@@ -125,12 +125,16 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
     .main__heading {
         font-size: 56px;
     }
 
     .main__info {
         font-size: 18px;
+    }
+
+    .main__picture {
+        margin-top: 45px;
     }
 }
