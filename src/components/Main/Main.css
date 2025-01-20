@@ -63,7 +63,8 @@
 .main__picture {
     width: 400px;
     border-radius: 25px;
-    box-shadow: 0px 0px 100px rgb(93, 93, 93);
+    animation: shadow-effect 3s ease-out 0s alternate infinite none running;
+    border-radius: 50%;
 }
 
 .main__right-column {
