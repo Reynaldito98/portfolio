@@ -12,7 +12,7 @@ function Project({project}) {
                     <a href={project.link} className="project__site-link" target="_blank">Website</a>
                     <a href={project.github} className="project__site-link" target="_blank">Repository</a>
                 </div>
-                <p className="project__info"><strong>Technologies Used: </strong>{project.technologies}</p>
+                <p className="project__info project__info_margin"><strong>Technologies Used: </strong>{project.technologies}</p>
                 <p className="project__info"><strong>Description: </strong>{project.description}</p>
             </div>
         </li>

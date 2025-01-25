@@ -41,8 +41,12 @@
 
 .project__info {
     font-size: 16px;
-    width: 60%;
+    width: 100%;
     margin: 0px;
+}
+
+.project__info_margin {
+    margin-top: 30px;
 }
 
 .project__site-link {
@@ -73,13 +77,16 @@
         padding-right: 0px;
     }
 
-    .project__image {
+    .project__right-column {
         width: 100%;
+    }
+
+    .project__image {
+        max-width: 90px;
         height: 150px;
         border-top-left-radius: 30px;
         border-top-right-radius: 30px;
         border-bottom-left-radius: 0px;
-        background-size: cover;
     }
 
     .project__heading {
