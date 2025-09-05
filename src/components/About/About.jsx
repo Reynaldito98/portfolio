@@ -5,7 +5,7 @@ function About() {
     return (
         <main className="about">
             <div className="about__background-image">
-
+                
             </div>
 
             <div className="about__right-column">
@@ -17,7 +17,6 @@ function About() {
                 <p className="about__text"><strong>Experience: </strong></p>
                 <p className="about__text">I currently work as a Freelance Web Developer. I have designed and developed 5+ responsive websites using JavaScript and React, improving user experience and site interactions. Also, I have researched and implemented best practices, enhancing overall site design and functionality for clients</p>
                 <p className="about__text">1/2023 - 9/2024 | I worked as a Junior Architect for Guillermo Aragon Architecture Firm. There, I collaborated with a team of 8 architects on the remodeling of 10+ existing residential properties. Digitally represented architectural plans using AutoCAD and Revit, streamlining communication and project management. Led a team of 3 in measuring and documenting property details, ensuring accurate data for digital modeling.</p>
-                <p className="about__text">10/2019 - 12/2022 | I worked as an English teacher and translator for Rafael Maria de Mendive High School. I prepared and instructed over 200 high school students for English proficiency exams, resulting in a 90% pass rate. Translated documents and provided interpretation services during 20+ events and activities, facilitating effective communication</p>
 
                 <p><strong>Education: </strong></p>
                 <p>Python Specialization at University of Michigan through Coursera  2025</p>
